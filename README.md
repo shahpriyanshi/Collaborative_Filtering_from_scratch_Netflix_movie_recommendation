@@ -1,4 +1,4 @@
-# Collaborative_Filtering_from_scratch
+# Collaborative_Filtering_from_scratch_for_Neflix_movie_recommendation
 ### Implemented the approach by reading the research paper:
 **Empirical Analysis of Predictive Algorithms for Collaborative Filtering**.
 <br>
